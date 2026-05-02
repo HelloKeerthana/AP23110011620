@@ -72,7 +72,7 @@ sorting is based on priority and latest time
 
 
 Register API
-![register](screenshots\image-1.png)
+![register](\image-1.png)
 
 Auth API
 ![auth ](screenshots\image-1.png)
