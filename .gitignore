@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Package lock (optional, but you can include or exclude)
+# package-lock.json
+
+# Temporary files
+*.tmp
+
+# Your local notes file
+DETAILS.TXT
