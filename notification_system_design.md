@@ -72,26 +72,26 @@ sorting is based on priority and latest time
 
 
 Register API
-![register](\screenshots\image-1.png)
+![register](screenshots/image-1.png)
 
 Auth API
-![auth ](screenshots\image-1.png)
+![auth ](screenshots/image-1.png)
 
 2nd auth since 1st one timed out
-![auth 02](screenshots\image-3.png)
+![auth 02](screenshots/image-3.png)
 
 3rd
-![alt text](screenshots\image-4.png)
+![alt text](screenshots/image-4.png)
 
 Logging API
-![logging ](screenshots\image-2.png)
+![logging ](screenshots/image-2.png)
 
 Depots API
 
 Vehicles API
-![alt text](screenshots\image-5.png)
-![alt text](screenshots\image-6.png)
-![alt text](screenshots\image-7.png)
+![alt text](screenshots/image-5.png)
+![alt text](screenshots/image-6.png)
+![alt text](screenshots/image-7.png)
 
 Output
-![alt text](screenshots\image-8.png)
+![alt text](screenshots/image-8.png)
